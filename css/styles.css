@@ -1,0 +1,22 @@
+img {
+  float:left;
+  margin-right: 20px;
+}
+.green {
+  color:#1aa130
+}
+img {
+  float:left;
+  margin-right: 10px;
+  }
+h1 {
+  margin-left: 135px;
+}
+ul {
+  color:#6449b0;
+  }
+.examples {
+  color:#00d2ff;
+  text-indent: 15px;
+  font-style: italic;
+  }
